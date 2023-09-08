@@ -1,0 +1,18 @@
+#background_image {
+    width: 100%;
+    margin: 2px;
+}
+
+#button_01 {
+
+}
+
+#cube {
+    width: 100px;
+    height:100px;
+    background-color: black;
+}
+
+#flex_container {
+    display: flex;
+}
