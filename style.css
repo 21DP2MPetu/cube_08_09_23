@@ -1,18 +1,16 @@
-#background_image {
-    width: 100%;
-    margin: 2px;
+div#main {
+    position: relative;
+    width: 1280px;
+    height: 720px;
+    background-image: url("images/background_image.jpg");
+    margin-bottom: 5px;
 }
 
-#button_01 {
-
-}
-
-#cube {
+div#cube {
+    position: absolute;
     width: 100px;
     height:100px;
     background-color: black;
-}
-
-#flex_container {
-    display: flex;
+    left: 0px;
+    top: 0px;
 }
